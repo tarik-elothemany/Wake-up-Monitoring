@@ -1,7 +1,7 @@
 # Wake-up Monitoring
 
 ## Description
-This project monitors wake-up events and lock/unlock attempts on a Windows PC. It sends notifications via Telegram whenever a user tries to wake up the PC or enters a PIN/password. This project can enhance your system's security by informing you of any unauthorized access attempts.
+This project monitors wake-up events on a Windows PC using the technique of detecting significant time jumps (greater than 1 minute), as the system time effectively stops during sleep mode. It sends notifications via Telegram when the PC is determined to have woken up from sleep.
 
 ## Features
 - Monitors successful and failed login attempts.
