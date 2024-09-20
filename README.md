@@ -18,3 +18,27 @@ Before using this project, make sure to install the following tools and librarie
    Install the required libraries by running the following command:
    ```bash
    pip install requests pywin32
+## Installation
+
+1. **Clone the Repository**  
+   Clone the GitHub repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+2. **Install dependencies:**
+   ```bash
+pip install -r requirements.txt
+
+## Configuration
+Set up a Telegram bot using [BotFather] and get your TOKEN and CHAT ID.
+Update the TOKEN and CHAT_ID in the script.
+
+## Usage
+Run the monitoring script:
+
+  ```bash
+python monitor.py
+
+
+
+
+
