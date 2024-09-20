@@ -23,7 +23,8 @@ Before using this project, make sure to install the following tools and librarie
 1. **Clone the Repository**  
    Clone the GitHub repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/tarik-elothemany/Wake-up-Monitoring.git
+   cd Wake-up-Monitoring
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
